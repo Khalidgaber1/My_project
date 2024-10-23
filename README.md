@@ -1,2 +1,2 @@
-# My_project
-my old project
+# My_projecst
+my old project in the school
